@@ -1,6 +1,6 @@
 # food-nutritions-calculator
 This is open-public share ideas for coding with goals to share knowledge with various ideas with contribution and shares for the whole community.
-# here's the requirements of this project
+# Here's the requirements of this project
 1. Setting up the Database:
   Choose a PostgreSQL hosting solution (locally, cloud provider, etc.).
   Design the schema for storing food nutrition data, user profiles, and BMI records.
